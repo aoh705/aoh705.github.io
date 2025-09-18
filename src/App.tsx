@@ -7,7 +7,7 @@ import './App.css';
 
 function App() {
   return (
-  <Router basename={import.meta.env.DEV ? '/' : '/aoh705'}>
+  <Router basename='/'>
       <div className="App">
         <Navigation />
         <main>
