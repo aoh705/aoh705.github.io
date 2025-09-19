@@ -14,7 +14,7 @@ const Home: React.FC = () => {
               </h1>
               <h2 className="home-subtitle" style={{fontSize: '1.5rem', fontWeight: 500, margin: 0, color: '#3b82f6'}}>M.S. Computer Science @ Columbia</h2>
               <p className="home-description" style={{fontSize: '1.15rem', color: '#334155', margin: 0}}>
-                I'm a Master's student at Columbia University in Computer Science. I'm passionate about building, solving problems, and challenging limits. I have experience building production systems and developing AI-powered applications in both academic and startup settings.
+                I'm a Master's student at Columbia University in Computer Science graduating December 2025. I'm passionate about building, solving problems, and challenging limits. I have experience building production systems and developing AI-powered applications in both academic and startup settings.
               </p>
 
               <p className="home-description" style={{fontSize: '1.15rem', color: '#334155', margin: 0}}>
